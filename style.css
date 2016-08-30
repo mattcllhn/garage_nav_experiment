@@ -1,0 +1,15 @@
+input{
+  display:list-item;
+
+}
+button{
+  margin-left: 80px;
+}
+nav{
+  color:gold;  
+  background-color: maroon;
+  display: inline;
+  padding:10px;
+  float:right;
+
+}
